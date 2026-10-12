@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Martin Diaz, I'm a systems engineering student at Universidad EAN
+I love the Cybersecurity, the development, networks, Linux systems and the cloud computing 
 
 <!--
 **IngMartin27/IngMartin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
